@@ -20,6 +20,7 @@
     "react-dom": "^16.13.1"
   },
   "devDependencies": {
-    "raw-loader": "^4.0.1"
+    "raw-loader": "^4.0.1",
+    "webpack": "^4.44.0"
   }
 }
